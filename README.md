@@ -1,5 +1,5 @@
 # Povoa-Lanhoso-Instance
-Instance with 6 fires and 5 resources
+Instance with 3 fires and 5 resources
 
 Firefighting resources are based on forest firefighting land vehicles with water tanks, which can have different capacities. Ignitions are understood as several fronts of the same forest fire.
 
